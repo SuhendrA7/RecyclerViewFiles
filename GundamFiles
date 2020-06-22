@@ -1,0 +1,24 @@
+{
+  "gundams" : [
+  
+  {
+  "name": "Burning Gundam"
+  "about": "This is Burning Gundam"
+  "image": "https://vignette.wikia.nocookie.net/gundam/images/a/a8/God_Gundam_-_Front.jpg/revision/latest?cb=20171014112023"
+  }
+  
+  {
+  "name": "Master Gundam"
+  "about": "This is Master Gundam"
+  "image": "https://2.bp.blogspot.com/-z_xfWalyvdo/WVBL0Z7YEbI/AAAAAAAGrNQ/Vgod8Dywo0AG0SL_byFzJQ5ny9kXXJetQCLcBGAs/s1600/hgbf-master-gundam-honoo%2B%25281%2529.jpg"
+  }
+   
+  {
+  "name": "Devil Gundam"
+  "about": "This is Devil Gundam"
+  "image": "https://www.1999.co.jp/itbig03/10038103p.jpg"
+  }
+  
+  ]
+  
+}
